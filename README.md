@@ -2,7 +2,9 @@
 
 Aplicación de técnicas del aprendizaje estadístico supervisado para generar un modelo que permita predecir qué clientes de un banco se suscribirán a una campaña de marketing.
 
-Trabajo desarrollado durante la participación en el ClusterAI 2022.
+ClusterAI 2022    
+
+Curso I5521 de Ingenieria Industrial UTN FRBA
 
 ## Dataset ##
 * [bank_subscription.csv](https://drive.google.com/file/d/157VDTpZSbklc3te9CeL0oWEzDfz8kd8l/view?usp=sharing)
